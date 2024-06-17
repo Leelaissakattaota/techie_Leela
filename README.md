@@ -10,7 +10,8 @@
 ### 🛠️ Skills & Tools
 
 - **Programming Languages:** Python, R, SQL
-- **Machine Learning:** Scikit-Learn, 
+- **Machine Learning:** Scikit-Learn,
+- **Statstics:** Regression, k_nearest,
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Databases:** MySQL, PostgreSQL
 - **Cloud Platforms:** AWS
