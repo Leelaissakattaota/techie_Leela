@@ -16,7 +16,7 @@
 - 🎓 Certified in **IBM Data Science | IBM Generative AI | IBM Agentic AI with RAG | IBM RAG & Agentic AI Professional**
 - 💡 Passionate about **LLMs, LangChain, LlamaIndex, Vector Databases & Prompt Engineering**
 - 🌱 Currently deep-diving into **Advanced RAG, Graph RAG, LangGraph & LangSmith**
-- 💼 Open to **AI/ML Engineer | GenAI Developer | AI Solutions Consultant** roles
+- 💼 Open to **AI/ML Engineer | GenAI Developer | AI Solutions Consultant** roles 
 - 🤝 Uniquely skilled at bridging **AI domain expertise with real-world business needs**
 - 📍 Based in **Bengaluru, India**
 - 📫 Reach me at **attotaleelaissak@gmail.com**
