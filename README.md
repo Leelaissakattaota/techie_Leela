@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leela</h1>
-<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; Generative AI & RAG Specialist &nbsp;|&nbsp; IBM Certified &nbsp;|&nbsp; Bengaluru, India</h3>
+<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; Generative AI & RAG Specialist &nbsp;|&nbsp; 4x IBM Certified &nbsp;|&nbsp; Bengaluru, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leelaissakattaota&label=Profile%20Views&color=1F4E79&style=flat" alt="profile views" />
@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently building **RAG pipelines, Agentic AI workflows & GenAI applications**
-- 🎓 Certified in **IBM Data Science | IBM Generative AI | IBM Agentic AI with RAG**
+- 🎓 Certified in **IBM Data Science | IBM Generative AI | IBM Agentic AI with RAG | IBM RAG & Agentic AI Professional**
 - 💡 Passionate about **LLMs, LangChain, LlamaIndex, Vector Databases & Prompt Engineering**
 - 🌱 Currently deep-diving into **Advanced RAG, Graph RAG, LangGraph & LangSmith**
 - 💼 Open to **AI/ML Engineer | GenAI Developer | AI Solutions Consultant** roles
@@ -29,15 +29,18 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Watsonx](https://img.shields.io/badge/IBM%20Watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**RAG & Vector Databases**
+**RAG & Agentic AI**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
 **Data Science & Tools**
 
@@ -46,9 +49,9 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -59,6 +62,7 @@
 | 📄 **PDF Q&A Chatbot** | RAG system that answers questions from any PDF using a local LLM — no paid API needed | LangChain · ChromaDB · Llama2 · Streamlit |
 | 🤖 **Agentic AI Workflow** | Multi-agent system with reasoning, planning & self-correction capabilities | LangGraph · LangChain · OpenAI API · Tool Use |
 | 🎯 **AI Talent Screening Tool** | Automates candidate screening over JDs & resumes using RAG | FAISS · Hugging Face · LangChain · Gradio |
+| 📊 **Six Sigma Healthcare Analytics** | Statistical process analysis on patient admission data using Six Sigma DMAIC | R · RStudio · fitdistrplus · Statistical Process Control |
 
 ---
 
@@ -66,9 +70,10 @@
 
 | 🏅 Certification | 🏢 Issuer | 🖥️ Platform |
 |---|---|---|
-| IBM Data Science Professional Certificate | IBM | Coursera |
-| IBM Generative AI Professional Certificate | IBM | Coursera |
-| IBM Agentic AI with RAG Certificate | IBM | Coursera |
+| ✦ IBM Data Science Professional Certificate | IBM | Coursera |
+| ✦ IBM Generative AI Professional Certificate | IBM | Coursera |
+| ✦ IBM Agentic AI with RAG Certificate | IBM | Coursera |
+| ✦ IBM RAG and Agentic AI Professional Certificate | IBM | Coursera |
 
 ---
 
