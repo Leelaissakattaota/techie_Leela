@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leela</h1>
-<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; Generative AI & RAG Specialist &nbsp;|&nbsp; 4x IBM Certified &nbsp;|&nbsp; Bengaluru, India</h3>
+<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; Generative AI & RAG Specialist &nbsp;|&nbsp; 3x IBM Certified &nbsp;|&nbsp; Bengaluru, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leelaissakattaota&label=Profile%20Views&color=1F4E79&style=flat" alt="profile views" />
@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently building **RAG pipelines, Agentic AI workflows & GenAI applications**
-- 🎓 Certified in **IBM Data Science | IBM Generative AI | IBM Agentic AI with RAG | IBM RAG & Agentic AI Professional**
+- 🎓 Certified in **IBM Data Science | IBM Generative AI | IBM RAG and Agentic AI Professional**
 - 💡 Passionate about **LLMs, LangChain, LlamaIndex, Vector Databases & Prompt Engineering**
 - 🌱 Currently deep-diving into **Advanced RAG, Graph RAG, LangGraph & LangSmith**
 - 💼 Open to **AI/ML Engineer | GenAI Developer | AI Solutions Consultant** roles
